@@ -8,3 +8,5 @@ end
 
 
 rocky = Dog.new
+
+rocky.bark
