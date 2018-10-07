@@ -2,4 +2,4 @@ class Person
 
 end
 
-carlos = Peron.new
+carlos = Person.new
