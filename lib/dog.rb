@@ -7,6 +7,6 @@ class Dog
 end
 
 
-rocky = Dog.new
+fido = Dog.new
 
-rocky.bark
+fido.bark
